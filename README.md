@@ -1,5 +1,5 @@
 # Finance-Analysis-Dashboard-Power-BI
-Power BI dashboard analyzing revenue, costs, profitability, and financial performance of a sports and nutrition company in 2023.
+Power BI dashboard analyzing revenue, costs, profitability, and financial performance of a Sports Equipment and Nutritional Products company in 2023.
 
 ## 1. Project Overview
 2–3 câu mô tả:
