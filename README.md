@@ -2,10 +2,8 @@
 Power BI dashboard analyzing revenue, costs, profitability, and financial performance of a Sports Equipment and Nutritional Products company in 2023.
 
 ## 1. Project Overview
-2–3 câu mô tả:
-- Project làm gì?
-- Mục tiêu phân tích là gì?
-- Công cụ chính?
+
+This project analyzes the 2023 financial performance of a company operating in the sports equipment and nutrition products industry using Power BI. The dashboard provides three perspectives:overall performance, business line performance, and cost structure.
 
 ## 2. Business Questions
 - Question 1
