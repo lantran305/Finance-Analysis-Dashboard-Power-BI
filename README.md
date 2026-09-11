@@ -44,3 +44,85 @@ The project provided a comprehensive view of **financial performance, business l
 #### Outcome:
 
 The analysis provided data-driven insights into **profitability, business line performance, and cost efficiency**, helping management identify priority areas for growth, cost control, and resource allocation.
+## 📂 Dataset Description & Data Structure
+
+### 📌 Data Source
+
+- **Source:** Financial Analysis Dataset
+- **Period:** January – December 2023
+- **Size:** 580 records
+- **Format:** Excel (.xlsx)
+- **Business Lines:** Sports Equipment, Sportswear, Nutrition & Food Supplements
+
+### 📊 Data Structure & Relationships
+
+#### 1️⃣ Tables Used
+
+The dashboard is built from a financial dataset containing revenue and expense transactions for three business lines throughout 2023.
+
+The Power BI data model consists of:
+
+- 📄 **revenue_expense** – Original dataset containing revenue and expense line items.
+- 💰 **revenue** – Revenue fact table used to analyze revenue performance by business line and date.
+- 💸 **expense** – Expense fact table used to analyze cost structure and profitability.
+- 📅 **dim_date** – Date dimension used for time-based analysis.
+- 🏷️ **dim_Business Line** – Business line dimension used to analyze and compare business line performance.
+
+#### 2️⃣ Table: revenue_expense
+
+The original dataset contains revenue and expense records at the **monthly business-line and financial line-item level**.
+
+| Column Name | Description |
+|---|---|
+| `Year` | Year of the revenue or expense record |
+| `Month - name` | Month name |
+| `Month -sequence` | Month sequence |
+| `Date` | Date associated with the financial record |
+| `Business Line` | Business line associated with the record |
+| `Amount, $` | Revenue or expense amount in USD |
+| `Expense subgroup` | Detailed expense category |
+| `Revenue / Expense Group` | High-level revenue or expense group |
+| `Revenue or expense` | Indicates whether the record is Revenue or Expense |
+
+#### 3️⃣ Table: revenue
+
+The `revenue` table is derived from the original dataset and contains revenue-related records used to analyze sales performance.
+
+| Column Name | Description |
+|---|---|
+| `Amount, $` | Revenue amount in USD |
+| `Business Line` | Business line generating the revenue |
+| `Date` | Revenue date |
+| `Revenue Group` | Revenue category |
+
+#### 4️⃣ Table: expense
+
+The `expense` table contains expense-related records used to analyze cost structure and profitability.
+
+| Column Name | Description |
+|---|---|
+| `Amount $` | Expense amount in USD |
+| `Business Line` | Business line associated with the expense |
+| `Cost Category` | High-level cost category |
+| `Date` | Expense date |
+
+#### 5️⃣ Table: dim_date
+
+The `dim_date` table is a dedicated date dimension used to support time-based analysis across revenue and expense data.
+
+| Column Name | Description |
+|---|---|
+| `Date` | Calendar date used to connect financial data with time-based analysis |
+
+#### 6️⃣ Table: dim_Business Line
+
+The `dim_Business Line` table contains the business line master data used to filter and compare financial performance.
+
+| Column Name | Description |
+|---|---|
+| `Business Line` | Business line name |
+| `Business Line ID` | Unique identifier for each business line |
+
+### 🔗 Data Model
+
+<img width="855" height="642" alt="image" src="https://github.com/user-attachments/assets/d7779100-318f-4f75-b21b-ef4794007b57" />
