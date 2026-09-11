@@ -126,3 +126,52 @@ The `dim_Business Line` table contains the business line master data used to fil
 ### 🔗 Data Model
 
 <img width="855" height="642" alt="image" src="https://github.com/user-attachments/assets/d7779100-318f-4f75-b21b-ef4794007b57" />
+
+## 🧠 Design Thinking Process
+### 1️⃣ Empathize
+<img width="958" height="468" alt="image" src="https://github.com/user-attachments/assets/cd389d9d-ad04-4e26-93d6-4cb07f3703d8" />
+
+<img width="764" height="389" alt="image" src="https://github.com/user-attachments/assets/b9b39156-6760-4b3c-a8ce-d4733460a11b" />
+
+### 2️⃣ Define point of view
+<img width="615" height="375" alt="image" src="https://github.com/user-attachments/assets/1ff084fe-0352-4680-89de-725a0b058236" />
+
+### 3️⃣ Ideate
+
+## 📊 Key Insights & Visualizations
+
+### 🔍 Dashboard Preview
+
+### 📋 Overview
+
+<img width="1346" height="756" alt="image" src="https://github.com/user-attachments/assets/694d3d29-ae0e-4666-94bb-a3847ad33716" />
+
+
+
+* Revenue peaked around the middle of the year but showed a slight overall downward trend.
+* Sports Equipment generated the highest revenue but had a lower net profit margin than Sportswear, while Nutrition & Food Supplements was loss-making.
+* Overall, the business maintained a relatively healthy growth quality, with profit margins improving alongside revenue.
+
+### 📋 Business Line Performance
+
+
+<img width="1533" height="856" alt="image" src="https://github.com/user-attachments/assets/03a24e5b-362d-4fdf-a9b8-225620f855a7" />
+
+* Sportswear had the highest gross margin at 70%, followed by Sports Equipment at 59% and Nutrition & Food Supplements at 45%.
+Nutrition & Food Supplements had an unusually high growth-cost ratio, mainly driven by R&D expenses, putting significant pressure on profitability and resulting in a net loss.
+* Monthly performance varied across business lines, highlighting differences in revenue generation and profitability over time.
+* Sports Equipment consistently generated the highest revenue but had a significantly lower net profit margin than Sportswear (26% vs. 40%), making profitability more sensitive to Sales and Marketing costs.
+* Sportswear generated less revenue than Sports Equipment but still made a significant contribution to total revenue. Its high margin and relatively low Sales costs indicate strong potential for scaling, while profitability remains sensitive to Marketing costs.
+  
+### 📋 Cost Structure
+
+<img width="1526" height="859" alt="image" src="https://github.com/user-attachments/assets/abc6baa3-7f57-4abd-8527-789b26b83e8f" />
+
+* The Fixed Cost / Revenue ratio showed an upward trend, indicating that fixed costs were growing faster than revenue.
+* This increasing fixed-cost burden may be limiting profitability and should be monitored to ensure that cost growth is supported by sufficient revenue generation.
+
+## Recommendations
+1. **Increase Marketing investment in Sportswear** to leverage its high profit margin and strong scaling potential, while monitoring Marketing efficiency.
+2. **Optimize Sales and Marketing spending for Sports Equipmen**t to support revenue growth and improve its relatively lower profit margin.
+3. **Reassess the effectiveness of R&D spending in Nutrition & Food Supplements** to reduce pressure on profitability and improve operating efficiency.
+
