@@ -124,7 +124,7 @@ The `dim_Business Line` table contains the business line master data used to fil
 <img width="1942" height="809" alt="image" src="https://github.com/user-attachments/assets/227d8e3b-62f1-4c8f-a28e-12da57e9189f" />
 
 
-<img width="764" height="389" alt="image" src="https://github.com/user-attachments/assets/b9b39156-6760-4b3c-a8ce-d4733460a11b" />
+<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/b7263a6c-6f0e-4ab2-95cd-daa55a4f8662" />
 
 ### 2️⃣ Define point of view
 <img width="615" height="375" alt="image" src="https://github.com/user-attachments/assets/1ff084fe-0352-4680-89de-725a0b058236" />
