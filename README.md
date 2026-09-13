@@ -162,17 +162,11 @@ Nutrition & Food Supplements had an unusually high growth-cost ratio, mainly dri
 * The Fixed Cost / Revenue ratio showed an upward trend, indicating that fixed costs were growing faster than revenue.
 * This increasing fixed-cost burden may be limiting profitability and should be monitored to ensure that cost growth is supported by sufficient revenue generation.
 
-## Recommendations
-1. **Increase Marketing investment in Sportswear** to leverage its high profit margin and strong scaling potential, while monitoring Marketing efficiency.
-2. **Optimize Sales and Marketing spending for Sports Equipmen**t to support revenue growth and improve its relatively lower profit margin.
-3. **Reassess the effectiveness of R&D spending in Nutrition & Food Supplements** to reduce pressure on profitability and improve operating efficiency.
+## Key Insights & Recommendations
 
-#### Key Results:
-
-- **Sports Equipment** generated the highest revenue contribution but achieved a lower net profit margin than Sportswear, indicating room for profitability improvement.
-- **Sportswear** achieved the highest net profit margin, suggesting stronger profitability and potential for further growth.
-- **Nutrition & Food Supplements** operated at a negative net profit margin, with a relatively high share of growth costs, particularly R&D.
-- **Fulfillment Cost** was the largest cost category, accounting for more than half of total expenses and making it a key area for cost management.
-- The **fixed cost-to-revenue ratio** showed an overall upward trend during 2023, highlighting the need to monitor fixed-cost expansion relative to revenue growth.
-- Revenue and net profit margin showed a **positive relationship**, suggesting that higher revenue was generally associated with stronger profitability across the analyzed periods/business lines.
+| Perspective | Insight | Recommendation |
+|---|---|---|
+| **Overview** | • Revenue peaks mid-year but shows a slight downward trend afterward.<br>• Profit margin increases with revenue, indicating relatively healthy growth quality.<br>• Sports Equipment leads revenue but has lower profitability, while Nutrition is loss-making. | • Prioritize growth based on **profitability and scalability**, not revenue alone. |
+| **Business Line** | • **Sportswear:** Highest gross margin (70%) and net margin (40%), with strong scalability potential.<br>• **Sports Equipment:** Highest revenue but lower net margin (26%) and higher sensitivity to sales & marketing costs.<br>• **Nutrition:** Low gross margin (45%) and high R&D cost growth, resulting in losses. | • Increase **marketing investment in Sportswear** to leverage its high margin and scalability.<br>• Optimize **Sales & Marketing spending** for Sports Equipment and monitor ROI.<br>• Reassess **R&D efficiency** in Nutrition. |
+| **Cost Structure** | • Fixed cost / revenue is increasing.<br>• New capacity investments mainly support Sports Equipment but have not yet generated proportional revenue. | • Improve **capacity utilization** and revenue generation before further expanding fixed costs.<br>• Review the **ROI of existing investments**. |
 
