@@ -33,9 +33,6 @@ This dashboard is designed for key stakeholders involved in financial and busine
 The project provided a comprehensive view of **financial performance, business line profitability, and cost structure**, helping identify key performance drivers and areas requiring management attention.
 
 
-#### Outcome:
-
-The analysis provided data-driven insights into **profitability, business line performance, and cost efficiency**, helping management identify priority areas for growth, cost control, and resource allocation.
 ## 📂 Dataset Description & Data Structure
 
 ### 📌 Data Source
