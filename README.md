@@ -121,7 +121,8 @@ The `dim_Business Line` table contains the business line master data used to fil
 
 ## 🧠 Design Thinking Process
 ### 1️⃣ Empathize
-<img width="958" height="468" alt="image" src="https://github.com/user-attachments/assets/cd389d9d-ad04-4e26-93d6-4cb07f3703d8" />
+<img width="1942" height="809" alt="image" src="https://github.com/user-attachments/assets/227d8e3b-62f1-4c8f-a28e-12da57e9189f" />
+
 
 <img width="764" height="389" alt="image" src="https://github.com/user-attachments/assets/b9b39156-6760-4b3c-a8ce-d4733460a11b" />
 
