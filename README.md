@@ -166,7 +166,7 @@ Nutrition & Food Supplements had an unusually high growth-cost ratio, mainly dri
 
 | Perspective | Insight | Recommendation |
 |---|---|---|
-| **Overview** | • Revenue peaks mid-year but shows a slight downward trend afterward.<br>• Profit margin increases with revenue, indicating relatively healthy growth quality.<br>• Sports Equipment leads revenue but has lower profitability, while Nutrition is loss-making. | • Prioritize growth based on **profitability and scalability**, not revenue alone. |
+| **Overview** | • Revenue peaks mid-year but shows a slight downward trend afterward.<br>• Profit margin increases with revenue, indicating relatively healthy growth quality.<br>• Sports Equipment leads revenue but has lower profitability, while Nutrition is loss-making. |   |
 | **Business Line** | • **Sportswear:** Highest gross margin (70%) and net margin (40%), with strong scalability potential.<br>• **Sports Equipment:** Highest revenue but lower net margin (26%) and higher sensitivity to sales & marketing costs.<br>• **Nutrition:** Low gross margin (45%) and high R&D cost growth, resulting in losses. | • Increase **marketing investment in Sportswear** to leverage its high margin and scalability.<br>• Optimize **Sales & Marketing spending** for Sports Equipment and monitor ROI.<br>• Reassess **R&D efficiency** in Nutrition. |
 | **Cost Structure** | • Fixed cost / revenue is increasing.<br>• New capacity investments mainly support Sports Equipment but have not yet generated proportional revenue. | • Improve **capacity utilization** and revenue generation before further expanding fixed costs.<br>• Review the **ROI of existing investments**. |
 
